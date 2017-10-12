@@ -14,6 +14,7 @@ public class MthdOvrldChgNoOfParam {
 	public static void main(String[] args){
 		System.out.println(add.addtn(1, 3));
 		System.out.println(add.addtn(1, 2, 4));
+		System.out.println(add.addtn(5, 5, 5));
 		
 	}
 }
