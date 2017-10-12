@@ -7,12 +7,12 @@ class ovrldTpProm {
 	}
 
 	void add(int a, float b, double c) {
-		System.out.println(a - b - c);
+		System.out.println(a - b - c); //fd
 	}
 }
 
 public class MthdOvrldTypePromotionFive {
-
+ 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		ovrldTpProm otprm = new ovrldTpProm();
