@@ -6,7 +6,7 @@ abstract class shap {
 
 class circle extends shap {
 	void drawing() {
-		System.out.println("Circle is drawn");
+		System.out.println("Circle is drawn"); 
 	}
 }
 
